@@ -1,1 +1,1 @@
-# NLP-for-ancient-languages-texts-
+# NLP-for-ancient-languages-texts
